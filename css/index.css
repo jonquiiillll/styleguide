@@ -93,6 +93,7 @@ object-fit: contain;
   width: 100%;
 margin-top: 30px;
 background-size: contain;
+background-repeat: no-repeat;
 background-image: url('../images/img_3_done.png');
 }
 .photo_place_7 {
